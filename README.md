@@ -1,4 +1,10 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Asghar+Imam;CS+Student+at+FAST-NUCES;C%2B%2B+%7C+OOP+%7C+DSA+Learner;Building+Projects+and+Learning+Daily" alt="Typing SVG" />
+<div align="center">
+
+# 𝐀𝐬𝐠𝐡𝐚𝐫 𝐈𝐦𝐚𝐦
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;C%2B%2B+%7C+OOP+%7C+DSA+Developer;Building+Systems+and+Projects;Learning+Something+New+Every+Day" alt="Typing SVG" />
+
+</div>
 
 <div align="center">
 
@@ -26,38 +32,65 @@ Passionate about **C++**, **Object-Oriented Programming**, **System Design**, an
 <div align="center">
 
 <a href="https://www.linkedin.com/in/asghar-imam/">
-  <img src="https://img.shields.io/badge/LinkedIn-Asghar%20Imam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 
 <a href="mailto:masgharimamsyed@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 
 <a href="https://leetcode.com/u/CCcXCsREUy/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" />
 </a>
 
 <a href="https://github.com/masgharimamsyed-prog">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode" />
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" /><br>
+<b>C++</b>
+</td>
 
-<br><br>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="65" height="65" /><br>
+<b>C</b>
+</td>
 
-<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/File%20Handling-C%2B%2B-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STL-Vectors%20%26%20Algorithms-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dynamic%20Memory-C%2B%2B-red?style=for-the-badge" />
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" /><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" /><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" /><br>
+<b>VS Code</b>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/OOP-00F7FF?style=for-the-badge&logoColor=black&labelColor=111111" />
+<img src="https://img.shields.io/badge/Data_Structures-00C853?style=for-the-badge&logoColor=black&labelColor=111111" />
+<img src="https://img.shields.io/badge/Algorithms-FF6D00?style=for-the-badge&logoColor=black&labelColor=111111" />
+<img src="https://img.shields.io/badge/File_Handling-FF1744?style=for-the-badge&logoColor=black&labelColor=111111" />
+<img src="https://img.shields.io/badge/STL-7C4DFF?style=for-the-badge&logoColor=black&labelColor=111111" />
 
 </div>
 
@@ -100,7 +133,7 @@ A dynamic text processing system completely built using raw dynamic memory witho
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -112,7 +145,7 @@ A dynamic text processing system completely built using raw dynamic memory witho
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -141,17 +174,25 @@ while(!success)
 
 ---
 
-# 💬 Developer Quote
+# 💻 Philosophy
 
 <div align="center">
 
-> “The real project is learning to think in systems, not just syntax.”
+```cpp
+while(alive)
+{
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
 
 </div>
 
 ---
 
-# 🎯 Goals
+# 🚀 Future Goals
 
 * Solve more DSA problems on LeetCode
 * Build larger real-world projects
