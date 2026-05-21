@@ -1,151 +1,73 @@
 <div align="center">
 
-# 𝐀𝐬𝐠𝐡𝐚𝐫 𝐈𝐦𝐚𝐦
+# Asghar Imam
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;C%2B%2B+%7C+OOP+%7C+DSA+Developer;Building+Systems+and+Projects;Learning+Something+New+Every+Day" alt="Typing SVG" />
+**BS Computer Science · FAST-NUCES Lahore**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asghar-imam/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:masgharimamsyed@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/CCcXCsREUy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/masgharimamsyed-prog)
 
 </div>
+
+---
+
+## About
+
+I am a Computer Science student at FAST-NUCES Lahore with a strong focus on C++, Object-Oriented Programming, and system design. I enjoy building projects from the ground up and am actively sharpening my problem-solving and DSA skills. My interests extend into AI and modern software engineering, and I am committed to learning in public and growing through consistent practice.
+
+---
+
+## Technical Skills
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Core Competencies**
+
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-2d2d2d?style=flat-square)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-2d2d2d?style=flat-square)
+![STL](https://img.shields.io/badge/C++_STL-2d2d2d?style=flat-square)
+![File Handling](https://img.shields.io/badge/File_Handling-2d2d2d?style=flat-square)
+![Dynamic Memory](https://img.shields.io/badge/Dynamic_Memory-2d2d2d?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Projects
+
+### Academic Office Management System
+
+A console-based academic management system built in C++ using OOP principles. The system supports full student and teacher management, course registration, section and venue handling, assessment tracking, GPA calculation, and persistent file-based storage with complete CRUD operations.
+
+**Stack:** `C++` · `OOP` · `File Handling` · `Dynamic Memory` · `STL Vectors`
+
+---
+
+### Dynamic Word Dictionary & Synonym Replacement System
+
+A text-processing engine built entirely with raw dynamic memory — no STL containers. Implements multi-dimensional pointers, manual string tokenization, synonym management, and precise memory control via `new` / `delete[]`.
+
+**Stack:** `C++` · `Raw Pointers` · `Dynamic Memory` · `String Processing`
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-### BS Computer Science Student @ FAST-NUCES Lahore
-
-Passionate about **C++**, **Object-Oriented Programming**, **System Design**, and building projects that solve real problems.
-
-</div>
-
----
-
-# 🚀 About Me
-
-* 🎓 BS Computer Science student at FAST-NUCES Lahore
-* 💻 Mainly working with C++ and OOP
-* 🧠 Interested in AI, Software Development, and System Design
-* 🌱 Currently improving problem solving and DSA skills
-* ⚡ Love late-night coding and building projects from scratch
-* 📚 Learning in public and sharing my journey
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/asghar-imam/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-
-<a href="mailto:masgharimamsyed@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
-
-<a href="https://leetcode.com/u/CCcXCsREUy/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" />
-</a>
-
-<a href="https://github.com/masgharimamsyed-prog">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=masgharimamsyed-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masgharimamsyed-prog&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" /><br>
-<b>C++</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=c" width="65" height="65" /><br>
-<b>C</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" /><br>
-<b>Git</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="65" height="65" /><br>
-<b>GitHub</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" /><br>
-<b>VS Code</b>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/OOP-00F7FF?style=for-the-badge&logoColor=black&labelColor=111111" />
-<img src="https://img.shields.io/badge/Data_Structures-00C853?style=for-the-badge&logoColor=black&labelColor=111111" />
-<img src="https://img.shields.io/badge/Algorithms-FF6D00?style=for-the-badge&logoColor=black&labelColor=111111" />
-<img src="https://img.shields.io/badge/File_Handling-FF1744?style=for-the-badge&logoColor=black&labelColor=111111" />
-<img src="https://img.shields.io/badge/STL-7C4DFF?style=for-the-badge&logoColor=black&labelColor=111111" />
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-## 🏫 Academic Office Management System
-
-A console-based academic management system built using C++ and Object-Oriented Programming principles.
-
-### Features
-
-* Student Management
-* Teacher Management
-* Course Registration
-* Section & Venue Management
-* Assessment Handling
-* GPA Calculation
-* File Persistence
-* CRUD Operations
-
-### Technologies Used
-
-`C++` `OOP` `File Handling` `Dynamic Memory` `STL Vectors`
-
----
-
-## 📖 Dynamic Word Dictionary & Synonym Replacement System
-
-A dynamic text processing system completely built using raw dynamic memory without STL containers.
-
-### Core Concepts
-
-* Multi-dimensional pointers
-* Dynamic memory allocation
-* String tokenization
-* Synonym management system
-* Manual memory handling using new/delete[]
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=masgharimamsyed-prog&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masgharimamsyed-prog&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -155,55 +77,26 @@ A dynamic text processing system completely built using raw dynamic memory witho
 
 ---
 
-# 🧠 Currently Learning
+## Currently Working On
 
-```cpp
-while(!success)
-{
-    practice();
-    learn();
-    build();
-}
-```
-
-* Advanced OOP
-* Data Structures & Algorithms
-* Problem Solving
-* AI & Future Technologies
-* Better System Design
+- Advanced Object-Oriented Design patterns
+- Data Structures and Algorithms (competitive problem-solving)
+- Foundations of AI and machine learning
+- Building larger, real-world software projects
 
 ---
 
-# 💻 Philosophy
+## Goals
 
-<div align="center">
-
-```cpp
-while(alive)
-{
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-</div>
-
----
-
-# 🚀 Future Goals
-
-* Solve more DSA problems on LeetCode
-* Build larger real-world projects
-* Learn AI and modern software development
-* Contribute to open source
-* Become a strong software engineer
+- Consistent DSA practice on LeetCode
+- Contribute to open-source projects
+- Develop production-grade software skills
+- Grow into a well-rounded software engineer
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+*Always building. Always learning.*
 
 </div>
