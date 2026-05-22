@@ -1,102 +1,119 @@
 <div align="center">
 
-# Asghar Imam 
+# I'm Asghar Imam
 
-**BS Computer Science · FAST-NUCES Lahore**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asghar-imam/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:masgharimamsyed@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/CCcXCsREUy/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/masgharimamsyed-prog)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=900\&lines=CS+Student+%40+FAST-NUCES+Lahore;Passionate+About+Software+Engineering;Problem+Solver+%7C+C%2B%2B+Developer;Learning+Backend+%26+Full+Stack+Development;Building+Clean+and+Scalable+Software)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am a Computer Science student at FAST-NUCES Lahore with a strong focus on C++, Object-Oriented Programming, and system design. I enjoy building projects from the ground up and am actively sharpening my problem-solving and DSA skills. My interests extend into AI and modern software engineering, and I am committed to learning in public and growing through consistent practice.
+I'm a **Computer Science undergraduate** at **FAST-NUCES Lahore** with a strong interest in software engineering, problem solving, and scalable application development.
 
----
+Current Focus are **Data Structures & Algorithms**,**Object-Oriented Programming**,**C++ Development**,**Web Development**,**Database Systems** and **Backend & Full-Stack Engineering.**
 
-## Technical Skills
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Core Competencies**
-
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-2d2d2d?style=flat-square)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-2d2d2d?style=flat-square)
-![STL](https://img.shields.io/badge/C++_STL-2d2d2d?style=flat-square)
-![File Handling](https://img.shields.io/badge/File_Handling-2d2d2d?style=flat-square)
-![Dynamic Memory](https://img.shields.io/badge/Dynamic_Memory-2d2d2d?style=flat-square)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+I enjoy building practical projects, strengthening my understanding of computer science fundamentals, and continuously improving my development skills.
 
 ---
 
-## Projects
 
-### Academic Office Management System
-
-A console-based academic management system built in C++ using OOP principles. The system supports full student and teacher management, course registration, section and venue handling, assessment tracking, GPA calculation, and persistent file-based storage with complete CRUD operations.
-
-**Stack:** `C++` · `OOP` · `File Handling` · `Dynamic Memory` · `STL Vectors`
-
----
-
-### Dynamic Word Dictionary & Synonym Replacement System
-
-A text-processing engine built entirely with raw dynamic memory — no STL containers. Implements multi-dimensional pointers, manual string tokenization, synonym management, and precise memory control via `new` / `delete[]`.
-
-**Stack:** `C++` · `Raw Pointers` · `Dynamic Memory` · `String Processing`
-
----
-
-## GitHub Analytics
+## 🛠️Tech Stack
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=masgharimamsyed-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masgharimamsyed-prog&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=masgharimamsyed-prog&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,tailwind,mysql,git,github,vscode,vercel,netlify,firebase" />
 
 </div>
 
 ---
 
-## Currently Working On
+## 📊 GitHub Stats
 
-- Advanced Object-Oriented Design patterns
-- Data Structures and Algorithms (competitive problem-solving)
-- Foundations of AI and machine learning
-- Building larger, real-world software projects
+<div align="center">
+
+<!-- Row 1: Stats card + Top Languages -->
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api?username=masgharimamsyed-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&show=reviews,discussions_started"
+     alt="GitHub Stats"/>
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=masgharimamsyed-prog&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6"
+     alt="Top Languages"/>
+
+<!-- Row 2: Streak stats -->
+<br/>
+<img width="70%"
+     src="https://streak-stats.demolab.com?user=masgharimamsyed-prog&theme=tokyonight&hide_border=true&background=0D1117"
+     alt="GitHub Streak"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=masgharimamsyed-prog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
 
 ---
 
-## Goals
+## 📈 Competitive Programming
 
-- Consistent DSA practice on LeetCode
-- Contribute to open-source projects
-- Develop production-grade software skills
-- Grow into a well-rounded software engineer
+<div align="center">
+
+| Platform    | Username                                                                   |
+| ----------- | -------------------------------------------------------------------------- |
+| 💻 LeetCode | <a href="https://leetcode.com/u/CCcXCsREUy/">Asghar Imam</a>               |
+| ⚡ GitHub    | <a href="https://github.com/masgharimamsyed-prog">masgharimamsyed-prog</a> |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asghar-imam/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/CCcXCsREUy/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:masgharimamsyed@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/masgharimamsyed-prog">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=masgharimamsyed-prog&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+
+</div>
+
+
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*Always building. Always learning.*
+<img height="120" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Always+learning+new+things+every+day.;Building+projects+and+improving+continuously.;Open+to+collaboration+and+opportunities.;Keep+coding+and+keep+growing+🚀"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
