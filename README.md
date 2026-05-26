@@ -21,13 +21,67 @@ I enjoy building practical projects, strengthening my understanding of computer 
 
 ## 🛠️Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55"/><br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55"/><br>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/><br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/><br>CSS3
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,tailwind,mysql,git,github,vscode,vercel,netlify,firebase" />
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="55" height="55"/><br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="55" height="55"/><br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55"/><br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/><br>MySQL
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/><br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55"/><br>Vercel
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55"/><br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55"/><br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=netlify" width="55" height="55"/><br>Netlify
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55"/><br>Firebase
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
