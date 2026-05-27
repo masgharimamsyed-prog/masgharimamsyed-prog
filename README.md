@@ -83,31 +83,31 @@ I enjoy building practical projects, strengthening my understanding of computer 
   </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Row 1: Stats card + Top Languages -->
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api?username=masgharimamsyed-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&show=reviews,discussions_started"
-     alt="GitHub Stats"/>
-<img height="180"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=masgharimamsyed-prog&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6"
-     alt="Top Languages"/>
-
-<!-- Row 2: Streak stats -->
-<br/>
-<img width="70%"
-     src="https://streak-stats.demolab.com?user=masgharimamsyed-prog&theme=tokyonight&hide_border=true&background=0D1117"
-     alt="GitHub Streak"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=masgharimamsyed-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="47%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masgharimamsyed-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"  />
 
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
+<img src="https://github-readme-streak-stats-ebon-two.vercel.app/?user=masgharimamsyed-prog&theme=tokyonight&hide_border=true" width="70%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=masgharimamsyed-prog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+## 🏆 Achievement Showcase
+<div align="center">
+  
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=masgharimamsyed-prog&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
+    alt="GitHub Trophies"/>
+
 
 </div>
 
