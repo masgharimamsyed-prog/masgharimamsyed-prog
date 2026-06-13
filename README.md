@@ -109,6 +109,7 @@ I enjoy building practical projects, strengthening my understanding of computer 
 
 | Platform    | Username                                                                   |
 | ----------- | -------------------------------------------------------------------------- |
+|👨🏻‍💻 LeetCode | <a href="https://codeforces.com/profile/masgharimamsyed">Asghar Imam</a>               |
 | 💻 LeetCode | <a href="https://leetcode.com/u/CCcXCsREUy/">Asghar Imam</a>               |
 | ⚡ GitHub    | <a href="https://github.com/masgharimamsyed-prog">masgharimamsyed-prog</a> |
 
@@ -128,6 +129,9 @@ I enjoy building practical projects, strengthening my understanding of computer 
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://codeforces.com/profile/masgharimamsyed">
+<img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 <a href="mailto:masgharimamsyed@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
