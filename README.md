@@ -1,6 +1,13 @@
 <div align="center">
 
-# I'm Asghar Imam
+# Hi 👋, I'm Asghar Imam
+<p align="center">
+  <img
+    alt="Coding"
+    width="300"
+    src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"
+  />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=900\&lines=CS+Student+%40+FAST-NUCES+Lahore;Passionate+About+Software+Engineering;Problem+Solver+%7C+C%2B%2B+Developer;Learning+Backend+%26+Full+Stack+Development;Building+Clean+and+Scalable+Software)](https://git.io/typing-svg)
 
