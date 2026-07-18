@@ -94,13 +94,12 @@ I enjoy building practical projects, strengthening my understanding of computer 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" >
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=masgharimamsyed-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="47%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masgharimamsyed-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"  />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=masgharimamsyed-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masgharimamsyed-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</div>
-
+</div> 
 <div align="center">
 <img src="https://github-readme-streak-stats-ebon-two.vercel.app/?user=masgharimamsyed-prog&theme=tokyonight&hide_border=true" width="70%" />
 
